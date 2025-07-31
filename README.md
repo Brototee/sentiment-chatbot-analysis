@@ -51,8 +51,4 @@ EmotionChatbot/
 Collaborators:
 
 GitHub: [@Hayzzy](https://github.com/Hayzzy)
-GitHub: [@Strookee](https://github.com/Strookee)
-GitHub: [@Brototee](https://github.com/Brototee)
-GitHub: [@Sanya](https://github.com/sanyasingh09)
-GitHub: [@Utkarsh](https://github.com/Utkarsh-Jha171)
-GitHub: [@Ashutosh](https://github.com/LegendarySlayer)
+
