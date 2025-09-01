@@ -1,6 +1,6 @@
 # 🤖 Emotion-Aware Chatbot
 
-This is a Python-based emotion-aware chatbot that uses a fine-tuned [GoEmotions](https://github.com/google-research/google-research/tree/master/goemotions) model to detect user emotions and respond empathetically using the OpenRouter API.
+This is a Python-based emotion-aware chatbot that uses a fine-tuned [GoEmotions](https://github.com/google-research/google-research/tree/master/goemotions) model to detect user emotions and respond empathetically using the OpenRouterai API.
 
 ## 🚀 Features
 
